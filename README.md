@@ -61,4 +61,23 @@ mkdir source_code<br>
 cd source_code<br>
 </p>
 
+<p><b>
+Download the source code</b> <br>
+wget https://github.com/gammatecnology/liracoin-italia.git<br>
+</p>
+
+<p>
+Execute the following commands to start compiling.
+./autogen.sh
+./configure --with-incompatible-bdb
+make
+</p>
+
+<p>The compiling will take about 60 minutes depending on your system hardware.</p>
+
+<p>
+Your compiled GUI wallet named liracoin-qt can be found in the folder “src/qt” when compiling is finished.
+Client tools liracoin-cl, liracoin-tx and the daemon liracoind can be found in the folder “src” when compiling is finished.
+</p>
+
 
