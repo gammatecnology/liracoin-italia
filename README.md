@@ -1,4 +1,4 @@
-# litacoin-italia
+# liracoin-italia
 Source code of Liracoin cryptocurrency
 
 Coin properties<br>
