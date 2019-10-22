@@ -27,4 +27,23 @@ Coin properties<br>
 </ul>
 
 
+<h3>How do I compile a daemon for Ubuntu Server 18.04 (Quark)?</h3><br>
 
+applies to Quark<br>
+branch 3.1+         <br>
+
+<p>Updated August 1, 2019, </p>
+
+<p>Use the following instructions to compile a daemon and GUI wallet for Ubuntu Server 18.04.</p>
+
+<p>
+<b>Update your Ubuntu machine.</b><br>
+sudo apt-get update<br>
+sudo apt-get upgrade<br>
+</p>
+
+<p>
+<b>Install the required dependencies.</b><br>
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl1.0-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev<br>
+sudo apt-get install libminiupnpc-dev libzmq3-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev unzip libgmp3-dev<br>
+</p>
