@@ -80,4 +80,6 @@ Your compiled GUI wallet named liracoin-qt can be found in the folder “src/qt�
 Client tools liracoin-cl, liracoin-tx and the daemon liracoind can be found in the folder “src” when compiling is finished.
 </p>
 
+<br><br>
+Support and other information to liracoin website: https://www.liracoin.it
 
