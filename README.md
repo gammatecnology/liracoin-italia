@@ -53,3 +53,12 @@ sudo add-apt-repository ppa:bitcoin/bitcoin<br>
 sudo apt-get update<br>
 sudo apt-get install libdb4.8-dev libdb4.8++-dev<br>
 </p>
+
+<p><b>
+Create a directory for the source code.</b><br>
+cd ~/<br>
+mkdir source_code<br>
+cd source_code<br>
+</p>
+
+
