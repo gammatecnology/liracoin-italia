@@ -1,0 +1,6 @@
+usr/local/bin/liracoin-qt usr/bin
+share/pixmaps/liracoin32.xpm usr/share/pixmaps
+share/pixmaps/liracoin16.xpm usr/share/pixmaps
+share/pixmaps/liracoin128.png usr/share/pixmaps
+debian/liracoin-qt.desktop usr/share/applications
+debian/liracoin-qt.protocol usr/share/kde4/services/

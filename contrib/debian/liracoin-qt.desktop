@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Liracoin Core
+Comment=Liracoin P2P Cryptocurrency
+Comment[fr]=Liracoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Liracoin, eşten eşe kriptografik sanal para birimi
+Exec=liracoin-qt %u
+Terminal=false
+Type=Application
+Icon=liracoin128
+MimeType=x-scheme-handler/liracoin;
+Categories=Office;Finance;
+StartupWMClass=Liracoin-qt
