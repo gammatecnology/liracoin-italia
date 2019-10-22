@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/liracoin_bg.qm</file>
+        <file alias="ca">locale/liracoin_ca.qm</file>
+        <file alias="cs">locale/liracoin_cs.qm</file>
+        <file alias="da">locale/liracoin_da.qm</file>
+        <file alias="de">locale/liracoin_de.qm</file>
+        <file alias="en">locale/liracoin_en.qm</file>
+        <file alias="en_GB">locale/liracoin_en_GB.qm</file>
+        <file alias="en_US">locale/liracoin_en_US.qm</file>
+        <file alias="eo">locale/liracoin_eo.qm</file>
+        <file alias="es">locale/liracoin_es.qm</file>
+        <file alias="es_ES">locale/liracoin_es_ES.qm</file>
+        <file alias="fi">locale/liracoin_fi.qm</file>
+        <file alias="fr_FR">locale/liracoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/liracoin_hi_IN.qm</file>
+        <file alias="hr">locale/liracoin_hr.qm</file>
+        <file alias="hr_HR">locale/liracoin_hr_HR.qm</file>
+        <file alias="it">locale/liracoin_it.qm</file>
+        <file alias="ja">locale/liracoin_ja.qm</file>
+        <file alias="ko_KR">locale/liracoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/liracoin_lt_LT.qm</file>
+        <file alias="nl">locale/liracoin_nl.qm</file>
+        <file alias="pl">locale/liracoin_pl.qm</file>
+        <file alias="pt">locale/liracoin_pt.qm</file>
+        <file alias="pt_BR">locale/liracoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/liracoin_ro_RO.qm</file>
+        <file alias="ru">locale/liracoin_ru.qm</file>
+        <file alias="sk">locale/liracoin_sk.qm</file>
+        <file alias="sv">locale/liracoin_sv.qm</file>
+        <file alias="tr">locale/liracoin_tr.qm</file>
+        <file alias="uk">locale/liracoin_uk.qm</file>
+        <file alias="vi">locale/liracoin_vi.qm</file>
+        <file alias="zh_CN">locale/liracoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/liracoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
