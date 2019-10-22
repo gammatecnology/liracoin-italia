@@ -44,6 +44,12 @@ sudo apt-get upgrade<br>
 
 <p>
 <b>Install the required dependencies.</b><br>
-sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl1.0-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev<br>
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl1.0-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev<br><br>
 sudo apt-get install libminiupnpc-dev libzmq3-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev unzip libgmp3-dev<br>
+</p>
+<p><b>
+Install Berkeley DB.</b><br>
+sudo add-apt-repository ppa:bitcoin/bitcoin<br>
+sudo apt-get update<br>
+sudo apt-get install libdb4.8-dev libdb4.8++-dev<br>
 </p>
